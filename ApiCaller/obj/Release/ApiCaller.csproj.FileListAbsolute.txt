@@ -1,0 +1,10 @@
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\bin\Release\ApiCaller.dll
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\bin\Release\ApiCaller.pdb
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\bin\Release\DitechBasics.dll
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\bin\Release\Newtonsoft.Json.dll
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\bin\Release\Newtonsoft.Json.xml
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\obj\Release\ApiCaller.csprojAssemblyReference.cache
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\obj\Release\ApiCaller.csproj.CoreCompileInputs.cache
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\obj\Release\ApiCaller.csproj.CopyComplete
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\obj\Release\ApiCaller.dll
+C:\Users\adam.chawki\Documents\Work\_Andre.Projects\Ditech Supervisor 1\ApiCaller\obj\Release\ApiCaller.pdb
